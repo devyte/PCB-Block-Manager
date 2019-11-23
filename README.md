@@ -1,9 +1,19 @@
-# Block Manager - hardware files for the Block Manager board
-These are the printed circuit board (PCB) files, CAD files, specification sheets and all technical drawings needed to make the DKblock Block Manager board. There are two boards that make a minimum DK system, a Block Manager PCB and a Pack Supervisor PCB (with software changes to the 20 client version provided). Note that the bill of materials (BOM) and other technical documents can be opened in OpenOffice format and PCB files are in EAGLE format.
+# Block Manager 
+### Hardware Files For The Block Manager Board
+These are the printed circuit board (PCB) files, CAD files, specification sheets and all technical drawings needed to make the DKblock Block Manager board. There are two boards that make a minimum DK system, a Block Manager PCB and a Pack Supervisor PCB (with software changes to the 20 client version provided). Note that the bill of materials (BOM) and other technical documents can be opened in [OpenOffice](https://www.openoffice.org) format and PCB files are in [EAGLE](https://www.autodesk.com/products/eagle/overview) format.
 One version is provided, that is Rev D which is a fully tested board.
 
-![Features of Block Manager PCB](https://user-images.githubusercontent.com/6006120/69194487-19cb6900-0ade-11ea-909c-2c5646c5fde7.png)
+![Block Manager Features](Images/Block_Manager_Features.png)
+
+![Block Manager Front RevD](Images/Block_Manager_RevD_Front.png)
+
+![Block Manager Back RevD](Images/Block_Manager_RevD_Back.png)
+
+![Block Manager Schematic RevD1 Page 1](Images/Block_Manager_RevD1_schematic_Page_1.png)
+
+![Block Manager Schematic RevD1 Page 2](Images/Block_Manager_RevD1_schematic_Page_2.png)
 
 
+![Open Hardware](Images/oshw-logo-200-px.png)
 
-All DKblock software and hardware is released as open source hardware (OSHW) as defined by the OSHWA: https://www.oshwa.org/definition/ and under the JSON license fully defined in the Wiki.
+All DKblock software and hardware is released as open source hardware (OSHW) as defined by the [OSHWA](https://www.oshwa.org/definition/) and under the JSON license fully defined in the Wiki.
