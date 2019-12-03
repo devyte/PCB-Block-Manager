@@ -3,7 +3,7 @@
 These are the printed circuit board (PCB) files, CAD files, specification sheets and all technical drawings needed to make the DKblock Block Manager board. There are two boards that make a minimum DK system, a Block Manager PCB and a Pack Supervisor PCB (with software changes to the 20 client version provided). Note that the bill of materials (BOM) and other technical documents can be opened in [OpenOffice](https://www.openoffice.org) format and PCB files are in [EAGLE](https://www.autodesk.com/products/eagle/overview) format.
 One version is provided, that is Rev D which is a fully tested board.
 
-![Block Manager Features](Images/Block_Manager_Features.png)
+file:///C:/Users/Tim%20Economu/Dropbox/DKblock/PCB/Block%20manager%20board/Features%20of%20Block%20Manager%20PCB%20V2.png
 
 ![Block Manager Front RevD](Images/Block_Manager_RevD_Front.png)
 
